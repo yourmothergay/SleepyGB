@@ -1,8 +1,8 @@
 # SleepyGB
 
 ## Dependencies
-gcc
-SFML
+gcc  
+SFML  
 
 ## How to run
 ```
